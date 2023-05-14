@@ -23,8 +23,8 @@ This is a oder summary card chanllenge from fronendmentor. The card should be re
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Frontend Mentor Solution](https://your-solution-url.com)
+- Live Site URL: [Live Website](https://your-live-site-url.com](https://manikmaity.github.io/order-summary-component/)
 
 ## My process
 
