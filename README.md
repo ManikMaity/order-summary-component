@@ -18,8 +18,12 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
 This is a oder summary card chanllenge from fronendmentor. The card should be responsive and there are hover effect in the button. There should be a background svg.
 
 ### Screenshot
+# Desktop Preview
+![screencapture-manikmaity-github-io-order-summary-component-2023-05-14-10_43_28](https://github.com/ManikMaity/order-summary-component/assets/110734724/cd50308d-73eb-4e4e-ad6a-7961d36edb80)
 
-![](./images/desktop-design.jpg)
+# Mobile Preview
+![mobile-preview-oder-summery](https://github.com/ManikMaity/order-summary-component/assets/110734724/3e61e09e-028e-47b7-bc51-66c1ee5e055b)
+
 
 ### Links
 
